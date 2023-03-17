@@ -1,6 +1,6 @@
 {
     "identifier": "com.akl.bob-plugin-akl-moe-tts",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "category": "tts",
     "name": "二次元老婆tts文字转语音",
     "summary": "二次元老婆tts文字转语音",
@@ -8,7 +8,7 @@
     "author": "akl7777777 <akl7777777@163.com>",
     "homepage": "https://github.com/akl7777777",
     "appcast": "https://raw.githubusercontent.com/akl7777777/bob-plugin-akl-moe-tts/main/appcast.json",
-    "minBobVersion": "0.5.0",
+    "minBobVersion": "1.6.0",
     "options": [
         {
             "identifier": "desc",
