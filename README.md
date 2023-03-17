@@ -10,6 +10,9 @@
 
 目前支持这些老婆哦,后续还会加,点个星星不迷路
 
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/84266551/225871137-eda6e8b6-7b4b-4034-a7ec-5f649fb87a75.png">
+
+
 
 ![image](https://user-images.githubusercontent.com/84266551/225867297-77c9a603-9322-4cfc-b997-a1b3c5622e0f.png)
 
