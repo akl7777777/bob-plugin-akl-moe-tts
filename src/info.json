@@ -1,0 +1,56 @@
+{
+    "identifier": "com.akl.bob-plugin-akl-moe-tts",
+    "version": "0.0.2",
+    "category": "tts",
+    "name": "二次元老婆tts文字转语音",
+    "summary": "二次元老婆tts文字转语音",
+    "icon": "icon.png",
+    "author": "akl7777777 <akl7777777@163.com>",
+    "homepage": "https://github.com/akl7777777",
+    "appcast": "",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "desc",
+            "type": "menu",
+            "title": "描述",
+            "defaultValue": "akl7777777",
+            "menuValues": [
+              {
+                "title": "二次元老婆tts文字转语音;",
+                "value": "akl7777777"
+              }
+            ],
+            "desc":"二次元老婆tts文字转语音"
+        },
+        {
+            "identifier": "speaker",
+            "type": "menu",
+            "title": "角色",
+            "defaultValue": "綾地寧々",
+            "menuValues": [
+                {
+                    "title": "綾地寧々",
+                    "value": "綾地寧々"
+                },
+                {
+                    "title": "朝武芳乃",
+                    "value": "朝武芳乃"
+                },
+                {
+                    "title": "在原七海",
+                    "value": "在原七海"
+                },{
+                    "title": "ルイズ",
+                    "value": "ルイズ"
+                },
+                {
+                    "title": "金色の闇",
+                    "value": "金色の闇"
+                }
+
+            ],
+            "desc": "切换你要发音的老婆的名称"
+        }
+    ]
+}
