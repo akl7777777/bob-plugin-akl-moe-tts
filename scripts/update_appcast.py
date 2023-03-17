@@ -8,7 +8,7 @@ def update_appcast(message):
     with open ("src/info.json", "r") as f:
         info = json.load(f)
     version = info["version"]
-    release_file = Path(f"release/bob-plugin-akl-deepl-free-translate.bobplugin")
+    release_file = Path(f"release/bob-plugin-akl-moe-tts.bobplugin")
     assert release_file.is_file(), "Release file not exist"
     with open(release_file, "rb") as f:
         c = f.read()
@@ -17,7 +17,7 @@ def update_appcast(message):
         "version": version,
         "desc": message,
         "sha256": file_hash,
-        "url": f"https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate/releases/download/v{version}/bob-plugin-akl-deepl-free-translate_v{version}.bobplugin",
+        "url": f"https://github.com/akl7777777/bob-plugin-akl-moe-tts/releases/download/v{version}/bob-plugin-akl-moe-tts_v{version}.bobplugin",
         "minBobVersion": "0.5.0"
     }
     appcast_file = Path("appcast.json")
@@ -25,7 +25,7 @@ def update_appcast(message):
         with open(appcast_file, "r") as f:
             appcast = json.load(f)
     else:
-        appcast = dict(identifier="com.akl.bob-plugin-akl-deepl-free-translate", versions=[])
+        appcast = dict(identifier="com.akl.bob-plugin-akl-moe-tts", versions=[])
     appcast["versions"].insert(0, version_info)
     with open(appcast_file, "w") as f:
         json.dump(appcast, f, ensure_ascii=False, indent=2)
