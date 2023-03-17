@@ -1,6 +1,8 @@
 # bob-plugin-akl-moe-tts
 二次元老婆文字转语音bob插件tts
 
+主要对日语支持比较好,你懂得;还支持中文,韩语
+
 
 ![image](https://user-images.githubusercontent.com/84266551/225867297-77c9a603-9322-4cfc-b997-a1b3c5622e0f.png)
 
