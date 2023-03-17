@@ -4,6 +4,11 @@
 主要对日语支持比较好,你懂得;还支持中文,韩语
 
 
+#### 二次元老婆文字转语音bob插件tts下载地址:[bob-plugin-akl-moe-tts](https://github.com/akl7777777/bob-plugin-akl-deepl-free-translate/releases/download/v0.2.6/bob-plugin-akl-deepl-free-translate_v0.2.6.bobplugin)
+
+使用方法:双击安装,直接使用
+
+
 ![image](https://user-images.githubusercontent.com/84266551/225867297-77c9a603-9322-4cfc-b997-a1b3c5622e0f.png)
 
 
