@@ -8,7 +8,7 @@
 
 使用方法:双击安装,直接使用
 
-目前支持这些老婆哦,后续还会加
+目前支持这些老婆哦,后续还会加,点个星星不迷路
 
 
 ![image](https://user-images.githubusercontent.com/84266551/225867297-77c9a603-9322-4cfc-b997-a1b3c5622e0f.png)
