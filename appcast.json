@@ -2,6 +2,13 @@
   "identifier": "com.akl.bob-plugin-akl-moe-tts",
   "versions": [
     {
+      "version": "0.0.3",
+      "desc": "auto",
+      "sha256": "a74f632041e99d5a0fd20aeff9023bf66480dc5b0b78a73cdcd1092d482169bd",
+      "url": "https://github.com/akl7777777/bob-plugin-akl-moe-tts/releases/download/v0.0.3/bob-plugin-akl-moe-tts_v0.0.3.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.2",
       "desc": "初始版本",
       "sha256": "1fee5494fd88f6d0e02d15f7d063f75c08d735f1d997942a158a8d60c7414494",
